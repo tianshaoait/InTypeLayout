@@ -8,7 +8,10 @@
    <com.tianshaoait.administrator.mylibrary.InTypeLayout
         android:id="@+id/main_intypelayout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        app:inTypeTextColor="#000000"//设置状态字体颜色
+        app:inTypeTextSize="13dp"//设置状态字体大小
+        >
 
         <RelativeLayout
             android:layout_width="match_parent"
