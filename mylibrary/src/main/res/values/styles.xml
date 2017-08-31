@@ -1,0 +1,9 @@
+<resources>
+
+    <declare-styleable name="InTypeLayout">
+        <attr name="inTypeTextColor" format="color" />
+        <attr name="inTypeTextSize" format="dimension" />
+        <attr name="inTypeImageHeightWidth" format="integer" />
+    </declare-styleable>
+
+</resources>
