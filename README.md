@@ -5,7 +5,7 @@
 # 判断是否显示数据或显示null等状态图片等(只能包含一个view)
 
 
-   <com.tianshaoait.administrator.mylibrary.InTypeLayout
+  <com.tianshaoait.administrator.mylibrary.InTypeLayout
         android:id="@+id/main_intypelayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
